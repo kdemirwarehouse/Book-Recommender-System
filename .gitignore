@@ -1,0 +1,10 @@
+artifacts/
+logs/
+__pycache__/
+*.pyc
+*.egg-info/
+.vscode/
+*.pkl
+*.zip
+*.csv
+.env
