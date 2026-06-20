@@ -1,0 +1,8 @@
+[ 2026-06-20 16:01:25,287 ] root - INFO - ====================Data Ingestion log started.==================== 
+[ 2026-06-20 16:01:25,288 ] root - INFO - Data Ingestion Config: DatasetConfig(dataset_download_url='https://github.com/entbappy/Branching-tutorial/raw/master/books_data.zip', raw_data_dir='artifacts\\dataset\\raw_data', ingested_dir='artifacts\\dataset\\ingested_data')
+[ 2026-06-20 16:01:25,288 ] root - INFO - Downloading data from https://github.com/entbappy/Branching-tutorial/raw/master/books_data.zip into file artifacts\dataset\raw_data\books_data.zip
+[ 2026-06-20 16:02:03,578 ] root - INFO - Downloaded data from https://github.com/entbappy/Branching-tutorial/raw/master/books_data.zip into file artifacts\dataset\raw_data\books_data.zip
+[ 2026-06-20 16:02:04,280 ] root - INFO - Extracting zip file: artifacts\dataset\raw_data\books_data.zip into dir: artifacts\dataset\ingested_data
+[ 2026-06-20 16:02:04,280 ] root - INFO - ====================Data Ingestion log completed.==================== 
+
+
